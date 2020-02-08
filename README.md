@@ -82,7 +82,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ## Step 3) Install Everything Else
 
-Executeing this command in powershell with 'Admin' privlidges will install all of the software documented in the [Chocolatey Machine Setup]('https://raw.githubusercontent.com/dvdmrk/GreenDevMachineConfig/master/chocolatey-machine-setup.ps1') Powershell script.
+Executeing this command in powershell with 'Admin' privlidges will install all of the software documented in the [Chocolatey Machine Setup](https://raw.githubusercontent.com/dvdmrk/GreenDevMachineConfig/master/chocolatey-machine-setup.ps1) Powershell script.
 
 ```ps
 iex ((new-object net.webClient).DownloadString('https://raw.githubusercontent.com/dvdmrk/GreenDevMachineConfig/master/chocolatey-machine-setup.ps1'))
