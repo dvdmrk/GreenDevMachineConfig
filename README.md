@@ -68,7 +68,7 @@ Details
 3.  Right Click on Powershell
 4.  Left Click 'Run as Administrator
 
-![alt text](images/powershell.png "Run Powershell as Adminstrator")
+![alt text](images/run-powershell-as-admin.gif "Run Powershell as Adminstrator")
 
 </details>
 
